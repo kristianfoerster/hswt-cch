@@ -30,31 +30,31 @@ title: Themenangebote
 
 <div class="thema bachelor" markdown="1">
 
-> ### 🏙️🌱 Hydrologische Modellierung von Gründachaufbauten mit verschiedenen Dimensionen mit einem physikalisch-basierten hydrologischen Modell
-> * Bereich: Hydrologische Modellierung, Datenanalyse, Visualisierung
-> * Voraussetzung: Belegung Hydrological Modeling
-> * Betreuenede: Kristian Förster
-> * Start: flexibel
+### 🏙️🌱 Hydrologische Modellierung von Gründachaufbauten mit verschiedenen Dimensionen mit einem physikalisch-basierten hydrologischen Modell
+* Bereich: Hydrologische Modellierung, Datenanalyse, Visualisierung
+* Voraussetzung: Belegung Hydrological Modeling
+* Betreuenede: Kristian Förster
+* Start: flexibel
 
 </div>
 
 
 <div class="thema master" markdown="1">
   
-> ### 🏙️🌱 Hydrological modeling of green roof structures with different dimensions using a physically-based hydrological model
-> * Scope: Hydrological modeling, data analysis, visualization
-> * Prerequisite: Assignment Hydrological Modeling
-> * Supervisor: Kristian Förster
-> * Start: flexible
+### 🏙️🌱 Hydrological modeling of green roof structures with different dimensions using a physically-based hydrological model
+* Scope: Hydrological modeling, data analysis, visualization
+* Prerequisite: Assignment Hydrological Modeling
+* Supervisor: Kristian Förster
+* Start: flexible
 
 </div>
 
 <div class="thema master" markdown="1">
 
-> ### 🏙️ Calibration of CRNS sensors for soil moisture observations
-> * Short description: Field work to collect comparative data, data analysis
-> * Supervisors: Kristian Förster
-> * Start: WiSe 2025/26
+### 🏙️ Calibration of CRNS sensors for soil moisture observations
+* Short description: Field work to collect comparative data, data analysis
+* Supervisors: Kristian Förster
+* Start: WiSe 2025/26
 
 </div>
 
