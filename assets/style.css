@@ -5,3 +5,11 @@ body {
 h1, h2, h3 {
   color: #007934; /* HSWT-Grün */
 }
+
+.thema {
+  background: #f4fdf7;
+  border-left: 4px solid #007934;
+  padding: 1em;
+  margin-bottom: 1.5em;
+  border-radius: 5px;
+}
