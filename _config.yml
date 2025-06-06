@@ -1,0 +1,7 @@
+title: "Abschlussarbeitsthemen"
+description: "Aktuelle Themenangebote"
+remote_theme: pages-themes/minimal@v0.2.0   # GitHub-Standardtheme
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+permalink: pretty

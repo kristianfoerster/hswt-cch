@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }} · {{ site.title }}</title>
+    {%- seo -%}
+  </head>
+  <body>
+    <header>
+      <h1><a href="{{ '/' | relative_url }}">{{ site.title }}</a></h1>
+      <p>{{ site.description }}</p>
+      <hr>
+    </header>
+
+    <main>
+      {{ content }}
+    </main>
+
+    <footer>
+      <hr>
+      <p>Zuletzt aktualisiert: {{ site.time | date: "%d.%m.%Y" }}</p>
+      <p><a href="https://github.com/{{ site.github.repository_nwo }}">Repo auf GitHub</a></p>
+    </footer>
+  </body>
+</html>
