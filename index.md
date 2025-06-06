@@ -28,7 +28,7 @@ title: Themenangebote
 
 > Bearbeite einfach diese Datei auf GitHub, um neue Themen hinzuzufügen oder alte zu entfernen.
 
-<article class="thema bachelor">
+<div class="thema bachelor" markdown="1">
 
 > ### 🏙️🌱 Hydrologische Modellierung von Gründachaufbauten mit verschiedenen Dimensionen mit einem physikalisch-basierten hydrologischen Modell
 > * Bereich: Hydrologische Modellierung, Datenanalyse, Visualisierung
@@ -36,10 +36,10 @@ title: Themenangebote
 > * Betreuenede: Kristian Förster
 > * Start: flexibel
 
-</article>
+</div>
 
 
-<article class="thema master">
+<div class="thema master" markdown="1">
   
 > ### 🏙️🌱 Hydrological modeling of green roof structures with different dimensions using a physically-based hydrological model
 > * Scope: Hydrological modeling, data analysis, visualization
@@ -47,16 +47,16 @@ title: Themenangebote
 > * Supervisor: Kristian Förster
 > * Start: flexible
 
-</article>
+</div>
 
-<article class="thema master">
+<div class="thema master" markdown="1">
 
 > ### 🏙️ Calibration of CRNS sensors for soil moisture observations
 > * Short description: Field work to collect comparative data, data analysis
 > * Supervisors: Kristian Förster
 > * Start: WiSe 2025/26
 
-</article>
+</div>
 
 
 <!-- Weitere Themen einfach im gleichen Format anhängen -->
