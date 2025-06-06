@@ -37,7 +37,7 @@ title: Themenangebote
 > * Start: flexibel
 
 </div>
----
+
 
 <div class="thema master">
   
@@ -49,7 +49,6 @@ title: Themenangebote
 
 </div>
 
----
 <div class="thema master">
 
 > ### 🏙️ Calibration of CRNS sensors for soil moisture observations
@@ -59,7 +58,5 @@ title: Themenangebote
 
 </div>
 
-
----
 
 <!-- Weitere Themen einfach im gleichen Format anhängen -->
