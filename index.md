@@ -29,28 +29,34 @@ title: Themenangebote
 > Bearbeite einfach diese Datei auf GitHub, um neue Themen hinzuzufügen oder alte zu entfernen.
 
 <div class="thema bachelor">
-### 🏙️🌱 Hydrologische Modellierung von Gründachaufbauten mit verschiedenen Dimensionen mit einem physikalisch-basierten hydrologischen Modell
-*Bereich*: Hydrologische Modellierung, Datenanalyse, Visualisierung
-*Voraussetzung*: Belegung Hydrological Modeling
-*Betreuenede*: Kristian Förster
-*Start*: flexibel
+
+> ### 🏙️🌱 Hydrologische Modellierung von Gründachaufbauten mit verschiedenen Dimensionen mit einem physikalisch-basierten hydrologischen Modell
+> * Bereich: Hydrologische Modellierung, Datenanalyse, Visualisierung
+> * Voraussetzung: Belegung Hydrological Modeling
+> * Betreuenede: Kristian Förster
+> * Start: flexibel
+
 </div>
 ---
 
 <div class="thema master">
-### 🏙️🌱 Hydrological modeling of green roof structures with different dimensions using a physically-based hydrological model {: .topic .master }
-*Scope*: Hydrological modeling, data analysis, visualization
-*Prerequisite*: Assignment Hydrological Modeling
-*Supervisor*: Kristian Förster
-*Start*: flexible
+  
+> ### 🏙️🌱 Hydrological modeling of green roof structures with different dimensions using a physically-based hydrological model
+> * Scope: Hydrological modeling, data analysis, visualization
+> * Prerequisite: Assignment Hydrological Modeling
+> * Supervisor: Kristian Förster
+> * Start: flexible
+
 </div>
 
 ---
 <div class="thema master">
-### 🏙️ Calibration of CRNS sensors for soil moisture simulations {: .topic .master }
-*Short description*: Field work to collect comparative data, data analysis
-*Supervisors*: Kristian Förster
-*Start*: WiSe 2025/26
+
+> ### 🏙️ Calibration of CRNS sensors for soil moisture observations
+> * Short description: Field work to collect comparative data, data analysis
+> * Supervisors: Kristian Förster
+> * Start: WiSe 2025/26
+
 </div>
 
 
