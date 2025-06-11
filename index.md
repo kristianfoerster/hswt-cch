@@ -20,7 +20,7 @@
 </script>
 
 
-# Verfügbare Abschlussarbeiten 📚
+# Verfügbare Abschlussarbeiten / Thesis topics 📚
 
 <div class="thema bachelor" markdown="1">
 
