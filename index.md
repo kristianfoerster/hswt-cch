@@ -1,7 +1,7 @@
 
 <p>
   <strong>Filtern nach:</strong>
-  <button onclick="filterThemen('all')">Alle</button>
+  <button onclick="filterThemen('all')">All</button>
   <button onclick="filterThemen('bachelor')">Bachelor</button>
   <button onclick="filterThemen('master')">Master</button>
 </p>
@@ -19,14 +19,8 @@
   }
 </script>
 
----
-layout: default
-title: Themenangebote
----
 
-## Verfügbare Abschlussarbeiten 📚
-
-> Bearbeite einfach diese Datei auf GitHub, um neue Themen hinzuzufügen oder alte zu entfernen.
+# Verfügbare Abschlussarbeiten 📚
 
 <div class="thema bachelor" markdown="1">
 
@@ -42,7 +36,7 @@ title: Themenangebote
 <div class="thema master" markdown="1">
   
 ### 🏙️🌱 Hydrological modeling of green roof structures with different dimensions using a physically-based hydrological model
-* Scope: Hydrological modeling, data analysis, visualization
+* Scope: Hydrological modeling, data analysis, visualization, [using this dataset](https://zenodo.org/records/15129787)
 * Prerequisite: Assignment Hydrological Modeling
 * Supervisor: Kristian Förster
 * Start: flexible
@@ -51,7 +45,7 @@ title: Themenangebote
 
 <div class="thema master" markdown="1">
 
-### 🏙️ Calibration of CRNS sensors for soil moisture observations
+### 🏙️ Calibration of Cosmic Ray Neutron Sensors for soil moisture observations
 * Short description: Field work to collect comparative data, data analysis
 * Supervisors: Kristian Förster
 * Start: WiSe 2025/26
