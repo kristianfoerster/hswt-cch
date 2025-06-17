@@ -58,7 +58,7 @@
 
 <div class="thema master" markdown="1">
 
-### 🏙️ Calibration of Cosmic Ray Neutron Sensors for soil moisture observations
+### 🌱🌾 Calibration of Cosmic Ray Neutron Sensors for soil moisture observations
 * Type: Master thesis
 * Short description: Field work to collect comparative data, data analysis
 * Supervisor: Kristian Förster
