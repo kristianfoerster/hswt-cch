@@ -24,6 +24,7 @@
 
 <div class="thema bachelor" markdown="1">
 ### ❄️🏔️🌲 Vergleich von Beobachtungen der Schneedecke für Wald- und Wiesenstandorte
+* Typ: Bachelorarbeit
 * Bereich: Datenanalyse, Visualisierung
 * Voraussetzung: Interesse an Datenauswetung
 * Betreuenede: Kristian Förster
@@ -58,6 +59,7 @@
 <div class="thema master" markdown="1">
 
 ### 🏙️ Calibration of Cosmic Ray Neutron Sensors for soil moisture observations
+* Type: Master thesis
 * Short description: Field work to collect comparative data, data analysis
 * Supervisor: Kristian Förster
 * Start: WiSe 2025/26
