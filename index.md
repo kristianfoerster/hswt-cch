@@ -22,6 +22,16 @@
 
 # Verfügbare Abschlussarbeiten / Thesis topics 📚
 
+<div class="thema bachelor" markdown="1">
+### ❄️🏔️🌲 Vergleich von Beobachtungen der Schneedecke für Wald- und Wiesenstandorte
+* Bereich: Datenanalyse, Visualisierung
+* Voraussetzung: Interesse an Datenauswetung
+* Betreuenede: Kristian Förster
+* Start: flexibel
+
+</div>
+
+
 <!---
 <div class="thema bachelor" markdown="1">
 
