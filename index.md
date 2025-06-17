@@ -22,6 +22,7 @@
 
 # Verfügbare Abschlussarbeiten / Thesis topics 📚
 
+<!---
 <div class="thema bachelor" markdown="1">
 
 ### 🏙️🌱 Hydrologische Modellierung von Gründachaufbauten mit verschiedenen Dimensionen mit einem physikalisch-basierten hydrologischen Modell
@@ -42,12 +43,13 @@
 * Start: flexible
 
 </div>
+-->
 
 <div class="thema master" markdown="1">
 
 ### 🏙️ Calibration of Cosmic Ray Neutron Sensors for soil moisture observations
 * Short description: Field work to collect comparative data, data analysis
-* Supervisors: Kristian Förster
+* Supervisor: Kristian Förster
 * Start: WiSe 2025/26
 
 </div>
