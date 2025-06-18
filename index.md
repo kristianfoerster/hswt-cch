@@ -26,7 +26,7 @@
 ### ❄️🏔️🌲 Vergleich von Beobachtungen der Schneedecke für Wald- und Wiesenstandorte
 * Typ: Bachelorarbeit
 * Bereich: Datenanalyse, Visualisierung
-* Voraussetzung: Interesse an Datenauswetung
+* Voraussetzung: Interesse an Datenauswertung
 * Betreuenede: Kristian Förster
 * Start: flexibel
 
