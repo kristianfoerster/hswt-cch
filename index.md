@@ -80,9 +80,9 @@
 
 ### 🌊🌱Hyper-resolution flood modeling in meso-scale catchments and implementation of nature-based solution
 * Type: Master thesis
-* Short description: Field work to collect comparative data, data analysis
+* Short description: hydrological modeling, data analysis
 * Supervisor: Kristian Förster
-* Start: WiSe 2025/26
+* Start: flexible
 
 </div>
 
