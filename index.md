@@ -32,6 +32,16 @@
 
 </div>
 
+<div class="thema bachelor" markdown="1">
+### ☢️💧 Einfluss der Variabilität des Landschaftswasserhaushalts auf Radonkonzentrationen
+* Typ: Bachelorarbeit
+* Bereich: Eigene Messungen, Datenanalyse, Visualisierung
+* Voraussetzung: Interesse an Datenauswetung
+* Betreuenede: Kristian Förster
+* Start: flexibel
+
+</div>
+
 
 <!---
 <div class="thema bachelor" markdown="1">
@@ -66,5 +76,14 @@
 
 </div>
 
+<div class="thema master" markdown="1">
+
+### 🌊🌱Hyper-resolution flood modeling in meso-scale catchments and implementation of nature-based solution
+* Type: Master thesis
+* Short description: Field work to collect comparative data, data analysis
+* Supervisor: Kristian Förster
+* Start: WiSe 2025/26
+
+</div>
 
 <!-- Weitere Themen einfach im gleichen Format anhängen -->
