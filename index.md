@@ -36,7 +36,7 @@
 ### ☢️💧 Einfluss der Variabilität des Landschaftswasserhaushalts auf Radonkonzentrationen
 * Typ: Bachelorarbeit
 * Bereich: Eigene Messungen, Datenanalyse, Visualisierung
-* Voraussetzung: Interesse an Datenauswetung
+* Voraussetzung: Interesse an Datenauswertung
 * Betreuenede: Kristian Förster
 * Start: flexibel
 
