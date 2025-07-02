@@ -46,8 +46,6 @@
 
 ### 🌍📡 Kalibrierung und Validierung von Bodenfeuchtesensoren auf Basis der Cosmic-Ray Neutron Sensing (CRNS)-Technologie
 
-Alternativ: Kalibrierung dreier CRNS-Sensoren (Cosmic-Ray Neutron Sensing) zur Ableitung einer kontinuierlichen Bodenfeuchtemessreihe
-
 * Bereich: Bodenfeuchte-Monitoring, Feldarbeit, Datenanalyse
 * Voraussetzungen: Interesse an Feldarbeit, Messmethoden und Datenanalyse; Grundkenntnisse in Statistik und idealerweise Python; selbstständige Arbeitsweise
 * Aufgaben: Literaturrecherche, Durchführung gravimetrischer Bodenproben im Gelände, Kalibrierung und Validierung der CRNS-Daten
