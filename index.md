@@ -79,7 +79,7 @@
 * Short description: hydrological modeling, data analysis
 * Supervisor: Kristian Förster
 * Start: flexible
-* Short description: Utilizing hydrological models is a proven method to quantify the effect of Nature-based Solutions (NbS) on the water balance. Yet, "hyper-resolution" (i.e., with a spatial resolution well below 100 meters) are being applied to small areas only. In this study, a physically-based hydrological model, which is capable to be adopted to massive grids with >10<sup>6</sup> grid cells, is tested.
+* Short description: Utilizing hydrological models is a proven method to quantify the effect of Nature-based Solutions (NbS) on the water balance. Yet, "hyper-resolution" (i.e., with a spatial resolution well below 100 meters) models are being applied to small areas only. In this study, a physically-based hydrological model, which is capable to be adopted to massive grids with >10<sup>6</sup> grid cells, is tested. This work sheds light on the question whether this kind of models could be used for catchments with several 100 of sqaure kilometers.
 
 </div>
 
