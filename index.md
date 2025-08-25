@@ -40,6 +40,7 @@
 * Voraussetzung: Interesse an Datenauswertung
 * Betreuenede: Kristian Förster
 * Start: flexibel
+* Kurzbeschreibung: Radon (Rn-222) ist ein radioaktives Gas, das durch den Zerfall von Radium im Uran-238-Zerfallsprozess entsteht. Es kann leicht in Wasser gelöst und in die Atmosphäre (und Gebäude) freigesetzt werden. Schwankungen des Grundwasserspiegels beeinflussen die Radonkonzentration in Innenräumen erheblich. Ein steigender Grundwasserspiegel sättigt die Bodenporen und verringert die Durchlässigkeit für Bodenluft, wodurch die Radonmigration in Gebäude reduziert wird. Sinkende Grundwasserspiegel hingegen führen zu einer höheren Bodenluftdurchlässigkeit und erleichtern den Radontransport ins Gebäudeinnere. Die Stärke und Richtung dieser Effekte hängen jedoch stark von den lokalen geologischen Gegebenheiten, der Bodenbeschaffenheit und der Bauweise der Gebäude ab. In dieser Arbeit sollen durch eigene Messungen und Beobachtungen von Grundwasser und Bodenfeuchte erste Zusammenhänge ermittelt werden.
 
 </div>
 
