@@ -29,6 +29,7 @@
 * Voraussetzung: Interesse an Datenauswertung
 * Betreuenede: Kristian Förster
 * Start: flexibel
+* Kurzbeschreibung: Schneeprozesse in Wäldern unterscheiden sich maßgeblich von umliegenden Freiflächen. Auf Bäumen abgelagerter Schnee schmilzt durch die hohe aerodynamische Kopplung und durch die "dunklen" Bäume relativ schnell, wohingegen der Schnee auf dem Waldboden durch den Kronenraum der Bäume von kurzwelliger Strahlung und von Wind abgeschirmt wird. Diese Unterschiede zeigen sich in unterschiedlichen Schmelzraten. Im Rahmen dieser Arbeit können diese Prozesse anhand eines Datensatzes von Schneehöhen in Wäldern und Freilandflächen ausgewertet werden. Damit kann ein verbessertes Verständnis über den Wasserhaushalt im Winterhalbjahr erlangt werden.
 
 </div>
 
