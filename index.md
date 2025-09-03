@@ -71,6 +71,7 @@
 
 </div>
 
+<div class="thema bachelor" markdown="1">
 
 ### 📰🌊Der Präventionsgedanke in der medialen Berichterstattung – Welche Rolle spielt Prävention in den Medien während und nach einem (pluvialen) Hochwasserereignis?
 * Typ: Bachelorarbeit
