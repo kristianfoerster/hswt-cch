@@ -72,6 +72,18 @@
 </div>
 
 
+### 📰🌊Der Präventionsgedanke in der medialen Berichterstattung – Welche Rolle spielt Prävention in den Medien während und nach einem (pluvialen) Hochwasserereignis?
+* Typ: Bachelorarbeit
+* Bereich: Analyse von Newsartikeln zum Thema Sturzfluten
+* Voraussetzungen: Keine
+* Aufgaben: Literaturrecherche, auch mit Schwerpunkt von News-Artikeln, ggf. Nutzung von KI
+* Betreuung: Kristian Förster und extern
+* Start: ab sofort
+* Kurzbeschreibung: In dieser Bachelorarbeit soll untersucht werden, ob das Prävention (und hypothetisch: hätte es sie gegeben) eine Rolle spielt bei der Berichterstattung von Schadensereignissen durch Sturzfluten. Auf diesem Weg sollen auch Best pracitce-Beispiele identifiziert werden.
+
+</div>
+
+
 <div class="thema master" markdown="1">
 
 ### 🌊🌱Hyper-resolution flood modeling in meso-scale catchments and implementation of nature-based solution
