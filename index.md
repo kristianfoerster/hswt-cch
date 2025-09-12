@@ -95,6 +95,15 @@
 * Brief description: The ILE Zukunftsregion Rupertiwinkel is currently developing an adaptation concept for heavy rainfall and flash floods with a multifunctional, resilient approach. Part of this project, which will run until March 2027, is the examination of a total of 12 particularly affected areas of the ILE municipalities and the development of a detailed action plan for these areas as well as for the entire region by a panel of experts. Taking into account the available data, the goal of the master's thesis is the development of a solution strategy that is as nature-based and sustainable for one of these selected areas.
 </div>
 
+<div class="thema master" markdown="1">
 
-
-<!-- Weitere Themen einfach im gleichen Format anhängen -->
+### 🌍📡 Site-Dependent Variability in the Calibration of Cosmic-Ray Neutron Sensing (CRNS) Sensors
+* Type: Master thesis
+* Area: Field work, Data analysis, Environmental Monitoring
+* Requirements: Basic knowledge of statistics and ideally Python, independent working style
+* Tasks: Field sampling at multiple sites, Gravimetric soil moisture analysis, Sensor calibration and data evaluation, Comparison of calibration curves, Analysis of soil moisture time series and hydrological interpretation, Assessment of uncertainty due to site conditions and environmental corrections
+* Supervision: Kristian Förster and team
+* Start: As soon as possible (field work starting mid-October 2025)
+* Brief description: How do calibration relationships of CRNS sensors vary across different site conditions, and what are the implications for soil moisture estimation? This thesis explores the transferability of CRNS calibrations and evaluates the accuracy of CRNS-derived soil moisture time series under variable environmental conditions.
+* 
+</div>
