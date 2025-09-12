@@ -105,5 +105,5 @@
 * Supervision: Kristian Förster and team
 * Start: As soon as possible (field work starting mid-October 2025)
 * Brief description: How do calibration relationships of CRNS sensors vary across different site conditions, and what are the implications for soil moisture estimation? This thesis explores the transferability of CRNS calibrations and evaluates the accuracy of CRNS-derived soil moisture time series under variable environmental conditions.
-* 
+
 </div>
