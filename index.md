@@ -29,7 +29,18 @@
 * Voraussetzung: Interesse an Datenauswertung
 * Betreuenede: Kristian Förster
 * Start: flexibel
-* Kurzbeschreibung: Schneeprozesse in Wäldern unterscheiden sich maßgeblich von umliegenden Freiflächen. Auf Bäumen abgelagerter Schnee schmilzt durch die hohe aerodynamische Kopplung und durch die "dunklen" Bäume relativ schnell, wohingegen der Schnee auf dem Waldboden durch den Kronenraum der Bäume von kurzwelliger Strahlung und von Wind abgeschirmt wird. Diese Unterschiede zeigen sich in unterschiedlichen Schmelzraten. Im Rahmen dieser Arbeit können diese Prozesse anhand eines Datensatzes von Schneehöhen in Wäldern und Freilandflächen ausgewertet werden. Damit kann ein verbessertes Verständnis über den Wasserhaushalt im Winterhalbjahr erlangt werden.
+* Kurzbeschreibung: Schneeprozesse in Wäldern unterscheiden maßgeblich von umliegenden Freiflächen. Auf Bäumen abgelagerter Schnee schmilzt durch die hohe aerodynamische Kopplung und durch die "dunklen" Bäume relativ schnell, wohingegen der Schnee auf dem Waldboden durch den Kronenraum der Bäume von kurzwelliger Strahlung und von Wind abgeschirmt wird. Diese Unterschiede zeigen sich in unterschiedlichen Schmelzraten. Im Rahmen dieser Arbeit können diese Prozesse anhand eines Datensatzes von Schneehöhen in Wäldern und Freilandflächen ausgewertet werden. Damit kann ein verbessertes Verständnis über den Wasserhaushalt im Winterhalbjahr erlangt werden.
+
+</div>
+
+<div class="thema bachelor" markdown="1">
+### ☔️ Regenwasserernte am Hochschulgebäude H7
+* Typ: Bachelorarbeit
+* Bereich: Datenanalyse, Berechnungen
+* Voraussetzung: Interesse an Datenauswertung und Berechnungen
+* Betreuenede: Kristian Förster
+* Start: flexibel
+* Regenwasser am Gebäude H7 soll durch Regenwasserernten in Zisternen gesammelt werden. Die Bachelorarbeit soll ein die Zisternengröße ermitteln und die Versorgungssicherheit für Bewässerungszwecke anlysieren.
 
 </div>
 
