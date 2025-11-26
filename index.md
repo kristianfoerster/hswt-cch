@@ -45,17 +45,6 @@
 </div>
 
 <div class="thema bachelor" markdown="1">
-### ☢️💧 Einfluss der Variabilität des Landschaftswasserhaushalts auf Radonkonzentrationen
-* Typ: Bachelorarbeit
-* Bereich: Eigene Messungen, Datenanalyse, Visualisierung
-* Voraussetzung: Interesse an Datenauswertung
-* Betreuenede: Kristian Förster
-* Start: flexibel
-* Kurzbeschreibung: Radon (Rn-222) ist ein radioaktives Gas, das durch den Zerfall von Radium im Uran-238-Zerfallsprozess entsteht. Es kann leicht in Wasser gelöst und in die Atmosphäre (und Gebäude) freigesetzt werden. Schwankungen des Grundwasserspiegels beeinflussen die Radonkonzentration in Innenräumen erheblich. Ein steigender Grundwasserspiegel sättigt die Bodenporen und verringert die Durchlässigkeit für Bodenluft, wodurch die Radonmigration in Gebäude reduziert wird. Sinkende Grundwasserspiegel hingegen führen zu einer höheren Bodenluftdurchlässigkeit und erleichtern den Radontransport ins Gebäudeinnere. Die Stärke und Richtung dieser Effekte hängen jedoch stark von den lokalen geologischen Gegebenheiten, der Bodenbeschaffenheit und der Bauweise der Gebäude ab. In dieser Arbeit sollen durch eigene Messungen und Beobachtungen von Grundwasser und Bodenfeuchte erste Zusammenhänge ermittelt werden.
-
-</div>
-
-<div class="thema bachelor" markdown="1">
 
 ### 🌍📡 Kalibrierung und Validierung von Bodenfeuchtesensoren auf Basis der Cosmic-Ray Neutron Sensing (CRNS)-Technologie
 * Typ: Bachelorarbeit
@@ -93,19 +82,6 @@
 * Short description: Utilizing hydrological models is a proven method to quantify the effect of Nature-based Solutions (NbS) on the water balance. Yet, "hyper-resolution" (i.e., with a spatial resolution well below 100 meters) models are being applied to small areas only. In this study, a physically-based hydrological model, which is capable to be adopted to massive grids with >10<sup>6</sup> grid cells, is tested. This work sheds light on the question whether this kind of models could be used for catchments with several 100 of sqaure kilometers.
 
 </div>
-
-<div class="thema master" markdown="1">
-
-### Development of a nature-based solution concept to mitigate the effects of heavy rainfall
-* Type: Master thesis
-* Area: Field work, data analysis
-* Requirements: Interest in working with the ILE Zukunftsregion Rupertiwinkel association (based in Kirchanschöring), data analysis, ability to work independently
-* Tasks: Literature research, analysis of heavy rainfall maps from the ILE Zukunftsregion Rupertiwinkel, field work on site, development of a solution concept
-* Supervision: Kristian Förster and external
-* Start: earliest possible date: autumn 2025; latest possible date: spring 2026
-* Brief description: The ILE Zukunftsregion Rupertiwinkel is currently developing an adaptation concept for heavy rainfall and flash floods with a multifunctional, resilient approach. Part of this project, which will run until March 2027, is the examination of a total of 12 particularly affected areas of the ILE municipalities and the development of a detailed action plan for these areas as well as for the entire region by a panel of experts. Taking into account the available data, the goal of the master's thesis is the development of a solution strategy that is as nature-based and sustainable for one of these selected areas.
-</div>
-
 <div class="thema master" markdown="1">
 
 ### 🌍📡 Site-Dependent Variability in the Calibration of Cosmic-Ray Neutron Sensing (CRNS) Sensors
