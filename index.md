@@ -82,15 +82,3 @@
 * Short description: Utilizing hydrological models is a proven method to quantify the effect of Nature-based Solutions (NbS) on the water balance. Yet, "hyper-resolution" (i.e., with a spatial resolution well below 100 meters) models are being applied to small areas only. In this study, a physically-based hydrological model, which is capable to be adopted to massive grids with >10<sup>6</sup> grid cells, is tested. This work sheds light on the question whether this kind of models could be used for catchments with several 100 of sqaure kilometers.
 
 </div>
-<div class="thema master" markdown="1">
-
-### 🌍📡 Site-Dependent Variability in the Calibration of Cosmic-Ray Neutron Sensing (CRNS) Sensors
-* Type: Master thesis
-* Area: Field work, Data analysis, Environmental Monitoring
-* Requirements: Basic knowledge of statistics and ideally Python, independent working style
-* Tasks: Field sampling at multiple sites, Gravimetric soil moisture analysis, Sensor calibration and data evaluation, Comparison of calibration curves, Analysis of soil moisture time series and hydrological interpretation, Assessment of uncertainty due to site conditions and environmental corrections
-* Supervision: Kristian Förster and team
-* Start: As soon as possible (field work starting mid-October 2025)
-* Brief description: How do calibration relationships of CRNS sensors vary across different site conditions, and what are the implications for soil moisture estimation? This thesis explores the transferability of CRNS calibrations and evaluates the accuracy of CRNS-derived soil moisture time series under variable environmental conditions.
-
-</div>
