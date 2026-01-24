@@ -40,7 +40,7 @@
 * Voraussetzung: Interesse an Datenauswertung und Berechnungen
 * Betreuenede: Kristian Förster
 * Start: flexibel
-* Regenwasser am Gebäude H7 soll durch Regenwasserernten in Zisternen gesammelt werden. Die Bachelorarbeit soll ein die Zisternengröße ermitteln und die Versorgungssicherheit für Bewässerungszwecke anlysieren.
+* Regenwasser am Gebäude H7 soll durch Regenwasserernten in Zisternen gesammelt werden. Die Bachelorarbeit soll die Zisternengröße ermitteln und die Versorgungssicherheit für Bewässerungszwecke anlysieren.
 
 </div>
 
