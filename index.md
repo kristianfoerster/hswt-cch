@@ -34,6 +34,16 @@
 
 </div>
 
+<div class="thema bachelor" markdown="1">
+### ☔️ Auswertung von Beregnungsexperimenten von Dachbegrünungsaufbauten
+* Typ: Bachelorarbeit
+* Bereich: Recherche, Datenanalyse
+* Betreuende: Kristian Förster
+* Start: flexibel
+* Für verschiedene Dachaufbauten (Länge, vertikaler-Aufbau, PV-Panele) werden Bergnungsexperimente systematisch ausgewertet und Zusammenhänge zwischen Charakteristika und Wasserabgaben herausgearbeitet.
+</div>
+
+
 
 <div class="thema master" markdown="1">
 ### 💧🌵 From floods to droughts - modelling water retention of nature-based solutions
