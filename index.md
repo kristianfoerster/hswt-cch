@@ -35,3 +35,13 @@
 </div>
 
 
+<div class="thema master" markdown="1">
+### 💧🌵 From floods to droughts - modelling water retention of nature-based solutions
+* Type: Master thesis
+* Methods: Literature review, data analysis, modelling
+* Requirements: Interesst in hydrology and modelling
+* Supervisor: Kristian Förster
+* Start: flexible
+* Most water retention studies for natrure-based solutions at the hillslope scale focus on the temporal scale of pluvial flooding only. The role of infiltration and evapotranspiration in subsequent dry spells is neglected or represented in simple parameterizations in many modelling studies. This thesis sheds light on water retention processes after flooding.
+
+</div>
