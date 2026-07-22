@@ -43,6 +43,15 @@
 * Für verschiedene Dachaufbauten (Länge, vertikaler-Aufbau, PV-Panele) werden Bergnungsexperimente systematisch ausgewertet und Zusammenhänge zwischen Charakteristika und Wasserabgaben herausgearbeitet.
 </div>
 
+<div class="thema bachelor" markdown="1">
+### 📊 Natur-basierte Lösungen für den Wasserückhalt vs. technischer Hochwasserschutz
+* Typ: Bachelorarbeit
+* Bereich: Modellierung
+* Voraussetzung: Interesst in hydrology and modelling
+* Betreuende: Kristian Förster
+* Start: flexibel
+* Ziel dieser Arbeit ist es, die Effizienz dezentraler, kleinräumiger Maßnahmen zur Wasserrückhaltung mit klassischen technischen Lösungen (Stauanlagen) für ein mesoskaliges Einzugsgebiet (~ 20 km^2^) zu vergleichen. Dabei geht es um Maßnahmen wie kleine Rückhaltemulden, Keyline-Design usw. 
+</div>
 
 
 <div class="thema master" markdown="1">
@@ -63,6 +72,6 @@
 * Requirements: Interesst in hydrology and modelling
 * Supervisor: Kristian Förster
 * Start: flexible
-* This thesis aims to compare the efficiency of decentralized, small-scale measure to retein water against clasdsical technical solutions (dams) for a meso-scale catchment in Germany (~ 20 km^2). This involves measures like small ponds, keyline design etc. 
+* This thesis aims to compare the efficiency of decentralized, small-scale measures to retain water against clasdsical technical solutions (dams) for a meso-scale catchment in Germany (~ 20 km^2^). This involves measures like small ponds, keyline design etc. 
 
 </div>
