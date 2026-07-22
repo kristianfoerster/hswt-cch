@@ -52,6 +52,17 @@
 * Requirements: Interesst in hydrology and modelling
 * Supervisor: Kristian Förster
 * Start: flexible
-* Most water retention studies for natrure-based solutions at the hillslope scale focus on the temporal scale of pluvial flooding only. The role of infiltration and evapotranspiration in subsequent dry spells is neglected or represented in simple parameterizations in many modelling studies. This thesis sheds light on water retention processes after flooding.
+* Most water retention studies for nature-based solutions at the hillslope scale focus on the temporal scale of pluvial flooding only. The role of infiltration and evapotranspiration in subsequent dry spells is neglected or represented in simple parameterizations in many modelling studies. This thesis sheds light on water retention processes after flooding.
+
+</div>
+
+<div class="thema master" markdown="1">
+### 📊 Nature-base solutions vs. technical flood protection
+* Type: Master thesis
+* Methods: modelling
+* Requirements: Interesst in hydrology and modelling
+* Supervisor: Kristian Förster
+* Start: flexible
+* This thesis aims to compare the efficiency of decentralized, small-scale measure to retein water against clasdsical technical solutions (dams) for a meso-scale catchment in Germany (~ 20 km^2). This involves measures like small ponds, keyline design etc. 
 
 </div>
