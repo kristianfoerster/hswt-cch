@@ -53,6 +53,15 @@
 * Ziel dieser Arbeit ist es, die Effizienz dezentraler, kleinräumiger Maßnahmen zur Wasserrückhaltung mit klassischen technischen Lösungen (Stauanlagen) für ein mesoskaliges Einzugsgebiet (~ 20 km^2^) zu vergleichen. Dabei geht es um Maßnahmen wie kleine Rückhaltemulden, Keyline-Design usw. 
 </div>
 
+<div class="thema bachelor" markdown="1">
+### 💧🐴 Kombiniertes Trockenheits- und Hochwasserschutzkonzept für einen Pferdehof
+* Typ: Bachelorarbeit
+* Bereich: Datenanalyse, hydrologische Bemessung, Konzeptentwicklung
+* Voraussetzung: Interesse an Hydrologie, Wasserwirtschaft und natur-basierten Lösungen; GIS-Kenntnisse sind von Vorteil
+* Betreuende: Sebastian Friedrich; Kristian Förster
+* Start: flexibel (Abgabe vor April 2027)
+Ziel der Arbeit ist die Entwicklung eines kombinierten Trockenheits- und Hochwasserschutzkonzeptes für einen kleinen Pferdehof in einem steilen Einzugsgebiet im Tertiärhügelland. Derzeit wird Niederschlagswasser von der Zufahrtsstraße zentral gesammelt und schnell abgeleitet. Stattdessen soll untersucht werden, inwieweit das Wasser auf geeigneten Koppel- und Wiesenflächen verteilt, versickert und für Trockenperioden nutzbar gemacht werden kann. Ergänzend sollen ein bis zwei multifunktionale Speicherteiche konzipiert werden, die der Löschwasserbevorratung, der Bereitstellung von Tränkwasser sowie dem Rückhalt von Starkregenabflüssen dienen. Im Rahmen der Arbeit werden das Einzugsgebiet und die Abflusswege analysiert, mögliche Maßnahmenvarianten entwickelt und deren Umsetzbarkeit, erforderliches Speichervolumen sowie Beitrag zur Verringerung von Hochwasserspitzen und zur Verbesserung der Wasserverfügbarkeit bewertet.</div>
+
 
 <div class="thema master" markdown="1">
 ### 💧🌵 From floods to droughts - modelling water retention of nature-based solutions
