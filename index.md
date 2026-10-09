@@ -64,18 +64,6 @@
 Ziel der Arbeit ist die Entwicklung eines kombinierten Trockenheits- und Hochwasserschutzkonzeptes für einen kleinen Pferdehof in einem steilen Einzugsgebiet im Tertiärhügelland. Derzeit wird Niederschlagswasser von der Zufahrtsstraße zentral gesammelt und schnell abgeleitet. Stattdessen soll untersucht werden, inwieweit das Wasser auf geeigneten Koppel- und Wiesenflächen verteilt, versickert und für Trockenperioden nutzbar gemacht werden kann. Ergänzend sollen ein bis zwei multifunktionale Speicherteiche konzipiert werden, die der Löschwasserbevorratung, der Bereitstellung von Tränkwasser sowie dem Rückhalt von Starkregenabflüssen dienen. Im Rahmen der Arbeit werden das Einzugsgebiet und die Abflusswege analysiert, mögliche Maßnahmenvarianten entwickelt und deren Umsetzbarkeit, erforderliches Speichervolumen sowie Beitrag zur Verringerung von Hochwasserspitzen und zur Verbesserung der Wasserverfügbarkeit bewertet.
 </div>
 
-
-<div class="thema master" markdown="1">
-### 💧🌵 From floods to droughts - modelling water retention of nature-based solutions
-* Type: Master thesis
-* Methods: Literature review, data analysis, modelling
-* Requirements: Interesst in hydrology and modelling
-* Supervisor: Kristian Förster
-* Start: flexible
-* Most water retention studies for nature-based solutions at the hillslope scale focus on the temporal scale of pluvial flooding only. The role of infiltration and evapotranspiration in subsequent dry spells is neglected or represented in simple parameterizations in many modelling studies. This thesis sheds light on water retention processes after flooding.
-
-</div>
-
 <div class="thema master" markdown="1">
 ### 📊 Nature-base solutions vs. technical flood protection
 * Type: Master thesis
