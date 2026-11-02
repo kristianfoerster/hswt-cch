@@ -22,55 +22,6 @@
 
 # Verfügbare Abschlussarbeiten / Thesis topics 📚
 
+*Da ich mich im Sommersemester 2027 im Forschungsfreisemester befinde, biete ich aktuelle keine Themen an.*
 
-<div class="thema bachelor" markdown="1">
-### 🌐 Datensätze zur hydrologischen Konnektivität der Landschaft
-* Typ: Bachelorarbeit
-* Bereich: Recherche, Datenanalyse
-* Voraussetzung: Interesse an Hydrologie, internationale Literatur, Datenanalyse
-* Betreuende: Kristian Förster
-* Start: flexibel
-* Die hydrologische Konnektivität beschreibt, wie Wasser, Sedimente oder Stoffe in der Landschaft miteinander verbunden sind. Ziel der Bachelorarbeit ist die Recherche relevanter internationaler Studien, eine erste Sichtung frei verfügbarer Datensätze zur hydrologischen Konnektivität sowie ein vergleichender Überblick über deren Inhalte, Auflösung und Einsatzmöglichkeiten. Auf dieser Basis sollen erste qualitative Aussagen und Einordnungsmöglichkeiten abgeleitet werden, insbesondere auch im Hinblick auf natur-basierte Lösungen.
-
-</div>
-
-<div class="thema bachelor" markdown="1">
-### ☔️ Auswertung von Beregnungsexperimenten von Dachbegrünungsaufbauten
-* Typ: Bachelorarbeit
-* Bereich: Recherche, Datenanalyse
-* Betreuende: Kristian Förster
-* Start: flexibel
-* Für verschiedene Dachaufbauten (Länge, vertikaler-Aufbau, PV-Panele) werden Bergnungsexperimente systematisch ausgewertet und Zusammenhänge zwischen Charakteristika und Wasserabgaben herausgearbeitet.
-</div>
-
-<div class="thema bachelor" markdown="1">
-### 📊 Natur-basierte Lösungen für den Wasserückhalt vs. technischer Hochwasserschutz
-* Typ: Bachelorarbeit
-* Bereich: Modellierung
-* Voraussetzung: Interesst in hydrology and modelling
-* Betreuende: Kristian Förster
-* Start: flexibel
-* Ziel dieser Arbeit ist es, die Effizienz dezentraler, kleinräumiger Maßnahmen zur Wasserrückhaltung mit klassischen technischen Lösungen (Stauanlagen) für ein mesoskaliges Einzugsgebiet (~ 20 km^2^) zu vergleichen. Dabei geht es um Maßnahmen wie kleine Rückhaltemulden, Keyline-Design usw. 
-</div>
-
-<div class="thema bachelor" markdown="1">
-### 💧🐴 Kombiniertes Trockenheits- und Hochwasserschutzkonzept für einen Pferdehof
-* Typ: Bachelorarbeit
-* Bereich: Datenanalyse, hydrologische Bemessung, Konzeptentwicklung
-* Voraussetzung: Interesse an Hydrologie, Wasserwirtschaft und natur-basierten Lösungen; GIS-Kenntnisse sind von Vorteil
-* Betreuende: Sebastian Friedrich; Kristian Förster
-* Start: flexibel (Abgabe vor April 2027)
-
-Ziel der Arbeit ist die Entwicklung eines kombinierten Trockenheits- und Hochwasserschutzkonzeptes für einen kleinen Pferdehof in einem steilen Einzugsgebiet im Tertiärhügelland. Derzeit wird Niederschlagswasser von der Zufahrtsstraße zentral gesammelt und schnell abgeleitet. Stattdessen soll untersucht werden, inwieweit das Wasser auf geeigneten Koppel- und Wiesenflächen verteilt, versickert und für Trockenperioden nutzbar gemacht werden kann. Ergänzend sollen ein bis zwei multifunktionale Speicherteiche konzipiert werden, die der Löschwasserbevorratung, der Bereitstellung von Tränkwasser sowie dem Rückhalt von Starkregenabflüssen dienen. Im Rahmen der Arbeit werden das Einzugsgebiet und die Abflusswege analysiert, mögliche Maßnahmenvarianten entwickelt und deren Umsetzbarkeit, erforderliches Speichervolumen sowie Beitrag zur Verringerung von Hochwasserspitzen und zur Verbesserung der Wasserverfügbarkeit bewertet.
-</div>
-
-<div class="thema master" markdown="1">
-### 📊 Nature-base solutions vs. technical flood protection
-* Type: Master thesis
-* Methods: modelling
-* Requirements: Interesst in hydrology and modelling
-* Supervisor: Kristian Förster
-* Start: flexible
-* This thesis aims to compare the efficiency of decentralized, small-scale measures to retain water against clasdsical technical solutions (dams) for a meso-scale catchment in Germany (~ 20 km^2^). This involves measures like small ponds, keyline design etc. 
-
-</div>
+*Since I am on a research leave during the summer semester of 2027, I do not offer any topics at present.*
