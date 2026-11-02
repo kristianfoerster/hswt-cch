@@ -22,6 +22,6 @@
 
 # Verfügbare Abschlussarbeiten / Thesis topics 📚
 
-*Da ich mich im Sommersemester 2027 im Forschungsfreisemester befinde, biete ich aktuelle keine Themen an.*
+*Da ich mich im Sommersemester 2027 im Forschungsfreisemester befinde, biete ich aktuell keine Themen an.*
 
 *Since I am on a research leave during the summer semester of 2027, I do not offer any topics at present.*
